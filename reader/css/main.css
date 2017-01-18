@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  padding: 2.5%;
+}
+
+.language-block {
+  background: #eee;
+  float: left;
+  width: 40%;
+  height: 30%;
+  margin: 2.5%;
+  padding: 2.5%;
+  border-radius: 20px;
+  font-family: helvetica neue, helvetica, sans-serif;
+  font-size: 32px;
+}
+
+.bitext-anchor.active {
+  background: rgba(0,0,0,0.1);
+}
